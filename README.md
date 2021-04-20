@@ -12,6 +12,8 @@ You can adjust the number of **Threads**. Only tested with 6 cores though.
 
 There are a few of **Presets** for cool looking coordinates.
 
+![](https://github.com/INeido/FractalVisualiser/blob/main/FractalVisualiser/img/screenshot_settings.png)
+
 ## Sequence
 
 With the **Sequence** option you can create a bunch of automatic screenshots for a cool zoom effect.
@@ -25,3 +27,5 @@ Color Palettes, Sharpening, advanced file Explorer, Undo-Redo buttons, draggable
 This project is long abondened.
 My goal was far too complicated to begin with, but I am surprised how far it has come.
 It has already outgrown me, so I probably won't pick it up again, but anyone else if free to improve it or copy from it.
+
+![](https://github.com/INeido/FractalVisualiser/blob/main/FractalVisualiser/img/screenshot_mainmenu.png)
